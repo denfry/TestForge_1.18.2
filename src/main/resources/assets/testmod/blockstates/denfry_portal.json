@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "axis=z": { "model": "testmod:block/denfry_portal_ew"},
+    "axis=x": { "model": "testmod:block/denfry_portal_ns"}
+  }
+}
